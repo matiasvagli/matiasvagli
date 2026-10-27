@@ -80,7 +80,14 @@ Sitios que diseñé y publiqué para negocios reales. Click en la imagen para ve
 | 🎯 **Simple antes que ingenioso** | La solución más simple que resuelva el problema, ordenada y sin capas "por si acaso". |
 | ✅ **Tests donde importan** | Lógica de negocio, cálculos y casos borde. Sin perseguir cobertura por cobertura. |
 
+## 📬 Hablemos
+
+Estoy disponible para proyectos de backend, arquitectura e IA aplicada. Si tenés algo en mente, escribime.
+
 <div align="center">
+
+<a href="mailto:vaglimatias@gmail.com"><img src="https://img.shields.io/badge/Email-vaglimatias%40gmail.com-f0b323?style=for-the-badge&logo=gmail&logoColor=1b2745" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/matias-vagliviello-07403736b"><img src="https://img.shields.io/badge/LinkedIn-Matias_Vagliviello-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="" />
 
