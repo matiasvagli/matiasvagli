@@ -8,6 +8,9 @@
 
 <br/><br/>
 
+<a href="https://www.matiasvaglidev.online/"><img src="https://img.shields.io/badge/🌐_Mi_sitio-matiasvaglidev.online-a78bfa?style=for-the-badge" alt="Mi sitio web" /></a>
+<br/>
+
 ![Backend](https://img.shields.io/badge/backend-first-7c6ff7?style=for-the-badge)
 ![Arquitectura](https://img.shields.io/badge/DDD-%C2%B7_Saga_%C2%B7_Outbox-0ea5e9?style=for-the-badge)
 ![IA](https://img.shields.io/badge/MCP-%C2%B7_RAG-10b981?style=for-the-badge)
@@ -88,6 +91,7 @@ Estoy disponible para proyectos de backend, arquitectura e IA aplicada. Si tené
 
 <a href="mailto:vaglimatias@gmail.com"><img src="https://img.shields.io/badge/Email-vaglimatias%40gmail.com-f0b323?style=for-the-badge&logo=gmail&logoColor=1b2745" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/matias-vagliviello-07403736b"><img src="https://img.shields.io/badge/LinkedIn-Matias_Vagliviello-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.matiasvaglidev.online/"><img src="https://img.shields.io/badge/Web-matiasvaglidev.online-7c6ff7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="" />
 
