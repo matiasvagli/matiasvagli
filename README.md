@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Matias%20Vagliviello&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Matias Vagliviello" />
+<img src="assets/banner.png" alt="Matias Vagliviello — Backend developer" width="100%" />
 
 <a href="https://github.com/matiasvagli">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&height=40&lines=Backend+developer;Sistemas+distribuidos+%26+DDD;IA+aplicada+y+MCP+servers;Menos+c%C3%B3digo%2C+m%C3%A1s+criterio" alt="Backend developer · Sistemas distribuidos · IA aplicada" />
@@ -47,6 +47,27 @@ Código abierto: usalo, rompelo, abrí un issue o mandá un PR.
 | 🧩 [**ragkit**](https://github.com/matiasvagli/ragkit) | Pipeline de ingesta RAG autoconfigurable para NestJS: elegís el proveedor de IA y el resto se configura solo. |
 | 🤝 [**Team Context MCP Server**](https://github.com/matiasvagli/Team-Context-MCP-Server) | Contexto compartido y persistente para equipos que trabajan con LLMs: que el conocimiento no se evapore cuando alguien se va. |
 | ⚡ [**CRUDFULL**](https://github.com/matiasvagli/crudfull) | Generador de CRUDs para FastAPI con tres motores: sin base, SQLAlchemy async o MongoDB. |
+
+## 🖼️ Landings en producción
+
+Sitios que diseñé y publiqué para negocios reales. Click en la imagen para verlos en vivo.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://landingfut.vercel.app/"><img src="assets/landing-futboliga.jpg" alt="Futboliga" /></a><br/>
+      <b>⚽ Futboliga</b><br/><sub>Ligas y equipos de fútbol amateur</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://corujacasasserranas.com.ar/"><img src="assets/landing-coruja.jpg" alt="Coruja Casas Serranas" /></a><br/>
+      <b>🏡 Coruja Casas Serranas</b><br/><sub>Alquiler de casas serranas</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.zonaurbanapublicidad.com.ar/"><img src="assets/landing-zona-urbana.jpg" alt="Zona Urbana Publicidad" /></a><br/>
+      <b>📣 Zona Urbana Publicidad</b><br/><sub>Publicidad en vía pública</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🧭 Cómo trabajo
 
