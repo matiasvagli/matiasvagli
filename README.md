@@ -18,12 +18,15 @@
 
 ## 🧠 Quién soy
 
-Me gusta el código y la lógica, analizar datos y encontrar patrones.
-Trabajo sobre todo en **backend**: APIs, arquitectura y sistemas donde las cosas
-tienen que seguir siendo correctas aunque algo falle a mitad de camino.
+Soy **backend developer** y me especializo en lo que no se ve, pero se nota cuando falla:
 
-Busco la solución más simple que resuelva el problema, ordenada, y con tests
-donde de verdad importan (lógica de negocio, cálculos, casos borde).
+- 💸 que **el dinero no se pierda** cuando un servicio se cae a mitad de una transferencia;
+- 🛡️ que un **agente de IA no pueda robar credenciales** ni filtrar datos sin que nadie se entere;
+- ⚡ que un listado **no se vuelva lento** cuando la base crece.
+
+Diseño con **DDD**, pruebo la lógica donde importa y construyo **de punta a punta**:
+del modelo de dominio a la API, y de ahí a la pantalla. Además me meto de lleno en
+**IA aplicada**: MCP servers, RAG y herramientas para que los equipos trabajen mejor con LLMs.
 
 ## 🛠️ Stack
 
@@ -33,7 +36,9 @@ donde de verdad importan (lógica de negocio, cálculos, casos borde).
 
 </div>
 
-## 📌 Proyectos destacados
+## 🌍 Abiertos a la comunidad
+
+Código abierto: usalo, rompelo, abrí un issue o mandá un PR.
 
 | Proyecto | Qué es |
 |---|---|
@@ -45,10 +50,14 @@ donde de verdad importan (lógica de negocio, cálculos, casos borde).
 
 ## 🧭 Cómo trabajo
 
-- **Diseño primero**: entender el dominio antes de escribir la primera línea.
-- **Simple y ordenado**: sin capas "por si acaso".
-- **Seguridad desde el principio**: nada de secretos en el código, todo input externo se valida.
-- **Performance con evidencia**: sin optimizaciones prematuras, pero con tests que cazan los N+1.
+| Principio | Cómo se ve en la práctica |
+|---|---|
+| 🧱 **Dominio antes que código** | Modelo el dominio con DDD. Las reglas de negocio viven fuera del framework y se prueban sin levantar un servidor. |
+| 🔁 **Consistencia bajo fallos** | Saga, outbox transaccional e idempotencia: si un paso falla, el sistema compensa en vez de quedar a medias. |
+| 🔐 **Seguridad por defecto** | Secretos solo por entorno, todo input externo validado, queries parametrizadas y autenticación explícita en cada endpoint. |
+| 📉 **Performance con guardas, no con reportes** | Todo listado va paginado y con un test automático que falla si la cantidad de queries crece con N. Los N+1 se cazan en el review, no en producción. |
+| 🎯 **Simple antes que ingenioso** | La solución más simple que resuelva el problema, ordenada y sin capas "por si acaso". |
+| ✅ **Tests donde importan** | Lógica de negocio, cálculos y casos borde. Sin perseguir cobertura por cobertura. |
 
 <div align="center">
 
